@@ -444,7 +444,7 @@ export default function Home() {
               </a>
 
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/shreyan-dey-917184197" 
                 target="_blank" 
                 rel="noreferrer"
                 className="flex items-center gap-2 rounded-lg border border-white/10 hover:border-white/20 bg-white/[0.02] px-6 py-3.5 text-xs font-semibold tracking-wider uppercase text-slate-300 hover:text-white smooth-transition"
@@ -962,7 +962,7 @@ export default function Home() {
                   </a>
 
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/shreyan-dey-917184197" 
                     target="_blank" 
                     rel="noreferrer" 
                     className="flex items-center justify-between rounded-lg border border-white/[0.04] bg-background/50 p-4 hover:border-blue-500/20 transition-all duration-300 group"
@@ -978,7 +978,7 @@ export default function Home() {
                   </a>
 
                   <a 
-                    href="https://instagram.com" 
+                    href="https://instagram.com/shr3y4nn" 
                     target="_blank" 
                     rel="noreferrer" 
                     className="flex items-center justify-between rounded-lg border border-white/[0.04] bg-background/50 p-4 hover:border-blue-500/20 transition-all duration-300 group"
@@ -987,7 +987,7 @@ export default function Home() {
                       <Instagram size={16} className="text-slate-400 group-hover:text-blue-400" />
                       <div>
                         <div className="text-xs font-semibold text-white">Instagram</div>
-                        <div className="text-[10px] font-mono text-slate-500">@shr3y4n</div>
+                        <div className="text-[10px] font-mono text-slate-500">@shr3y4nn</div>
                       </div>
                     </div>
                     <ArrowUpRight size={14} className="text-slate-600 group-hover:text-white transition" />
