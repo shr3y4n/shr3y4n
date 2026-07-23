@@ -7,7 +7,7 @@
 
 Building intelligent systems at the intersection of **Embedded Systems**, **Artificial Intelligence**, **Control Engineering**, and **Aerospace**.
 
-[Portfolio](https://shr3y4n.github.io/shr3y4n_v2/) • [LinkedIn](https://linkedin.com/in/YOUR-LINK) • [Resume](#) • [Email](mailto:YOUR_EMAIL)
+[Portfolio](https://shr3y4n.github.io/shr3y4n/) • [LinkedIn](https://linkedin.com/in/YOUR-LINK) • [Resume](#) • [Email](mailto:YOUR_EMAIL)
 
 </div>
 
