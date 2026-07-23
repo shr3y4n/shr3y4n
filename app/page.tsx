@@ -8,7 +8,6 @@ import {
   Linkedin, 
   Instagram, 
   Mail, 
-  FileText, 
   Cpu, 
   Activity, 
   Flame, 
@@ -450,14 +449,6 @@ export default function Home() {
                 className="flex items-center gap-2 rounded-lg border border-white/10 hover:border-white/20 bg-white/[0.02] px-6 py-3.5 text-xs font-semibold tracking-wider uppercase text-slate-300 hover:text-white smooth-transition"
               >
                 <Linkedin size={14} /> LinkedIn
-              </a>
-
-              <a 
-                href="/shr3y4n/resume.pdf" 
-                download
-                className="flex items-center gap-2 rounded-lg border border-blue-500/20 bg-blue-500/5 px-6 py-3.5 text-xs font-semibold tracking-wider uppercase text-blue-400 hover:bg-blue-500/10 smooth-transition"
-              >
-                <FileText size={14} /> Resume
               </a>
             </div>
           </div>
@@ -929,14 +920,6 @@ export default function Home() {
                   {emailCopied ? <Check size={14} className="text-emerald-400" /> : <Clipboard size={14} />}
                   <span>{emailCopied ? 'Email Copied!' : 'Copy shreyandeycbs@gmail.com'}</span>
                 </button>
-
-                <a 
-                  href="/shr3y4n/resume.pdf"
-                  download
-                  className="flex items-center gap-2 rounded-lg border border-blue-500/20 bg-blue-500/5 px-5 py-3 text-xs font-mono text-blue-400 hover:bg-blue-500/10 transition"
-                >
-                  <FileText size={14} /> Download Resume (PDF)
-                </a>
               </div>
             </div>
 
