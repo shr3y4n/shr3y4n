@@ -152,7 +152,7 @@ TinyML-based railway defect detection using acoustic analysis and Edge Impulse.
 
 <p align="center">
 
-<a href="https://shr3y4n.github.io/shr3y4n_v2/">🌐 Portfolio</a> •
+<a href="[https://shr3y4n.github.io/shr3y4n_v2/](https://shr3y4n.github.io/shr3y4n/)">🌐 Portfolio</a> •
 <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> •
 <a href="mailto:YOUR_EMAIL">Email</a>
 
