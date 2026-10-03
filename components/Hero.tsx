@@ -105,11 +105,17 @@ export function Hero({ onScrollTo }: HeroProps) {
           {/* Domain / Academic Header Badges */}
           <div className="flex flex-wrap items-center gap-2 mb-6">
             <span className="rounded border border-blue-500/25 bg-blue-500/10 px-3 py-1 font-mono text-[10px] uppercase tracking-wider text-blue-400 font-medium">
-              Electronics &amp; Communication Engineering
+              B.Tech ECE &bull; Techno India University
             </span>
-            <span className="rounded border border-white/10 bg-white/[0.03] px-3 py-1 font-mono text-[10px] tracking-wider text-slate-400">
-              Techno India University
-            </span>
+            <a
+              href="https://study.iitm.ac.in/ae/"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded border border-sky-500/25 bg-sky-500/10 hover:border-sky-500/40 px-3 py-1 font-mono text-[10px] tracking-wider text-sky-400 transition-colors inline-flex items-center gap-1"
+            >
+              <span>BS Aeronautics &amp; Space Technology &bull; IIT Madras</span>
+              <ArrowUpRight size={10} />
+            </a>
           </div>
 
           {/* Primary Name & Roles */}
@@ -131,7 +137,7 @@ export function Hero({ onScrollTo }: HeroProps) {
           </p>
 
           <p className="text-xs sm:text-sm text-slate-400 mb-10 max-w-xl leading-relaxed">
-            Engineering student who actually builds things. From reinforcement learning flight landing frameworks and multivariable control dynamics to ESP32 RF sensing and grounded GenAI legal document systems.
+            ECE undergraduate at Techno India University pursuing a BS in Aeronautics and Space Technology from IIT Madras, working across aerospace, control systems, embedded systems, and AI.
           </p>
 
           {/* Primary Call-To-Action Buttons */}

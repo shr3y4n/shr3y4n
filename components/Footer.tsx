@@ -16,7 +16,7 @@ export function Footer({ onScrollToTop }: FooterProps) {
             SHREYAN DEY &bull; PORTFOLIO
           </div>
           <p className="text-[10px] text-slate-500">
-            B.Tech Electronics &amp; Communication Engineering &bull; Techno India University
+            B.Tech ECE (Techno India University) &bull; BS Aeronautics &amp; Space Tech (IIT Madras)
           </p>
         </div>
 
