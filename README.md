@@ -391,7 +391,7 @@ Software
 
 <p align="center">
 
-<a href="https://shr3y4n.github.io/shr3y4n/">🌐 Portfolio</a> • <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://shr3y4n.github.io/shr3y4n/">🌐 Portfolio</a> • <a href="https://www.linkedin.com/in/shreyan-dey-917184197">LinkedIn</a> • <a href="mailto:shreyandeycbs@gmail.com">Email</a>
 
 </p>
 
